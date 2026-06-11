@@ -1,0 +1,7 @@
+Język: C++
+Typ danych: rzeczywisty (float)
+Nazwa kompilatora: g++
+Wersja kompilatora: gcc version 8.5.0 20210514 (Red Hat 8.5.0-28) (GCC)
+Kompilacja programu: g++ -fopenmp bubbleSmall.cpp -o programSmall_omp
+Używany skrypt kolejkowy Bash do uruchomienia programu na liczbie rdzeni: 1,2,4..24
+Umieszczenie zadania w kolejce: sbatch sequenceSLURM.sh
