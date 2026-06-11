@@ -1,0 +1,27 @@
+Rozpoczecie testow skalowalnosci OpenMP...
+==========================================
+Uruchamianie dla liczby watkow: 1
+Time: 12.5124 min
+------------------------------------------
+Uruchamianie dla liczby watkow: 2
+Time: 7.15056 min
+------------------------------------------
+Uruchamianie dla liczby watkow: 4
+Time: 3.38088 min
+------------------------------------------
+Uruchamianie dla liczby watkow: 8
+Time: 1.87373 min
+------------------------------------------
+Uruchamianie dla liczby watkow: 12
+Time: 1.28912 min
+------------------------------------------
+Uruchamianie dla liczby watkow: 16
+Time: 1.56416 min
+------------------------------------------
+Uruchamianie dla liczby watkow: 20
+Time: 1.34218 min
+------------------------------------------
+Uruchamianie dla liczby watkow: 24
+Time: 1.11842 min
+------------------------------------------
+Wszystkie testy zostaly zakonczone.
